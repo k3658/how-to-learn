@@ -7,5 +7,10 @@
   margin-left: auto;
   margin-right: auto;
   padding-top: 100px;
+  box-sizing: border-box;
   z-index: 1;
+  background-image: url(../../images/feynman.png);
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: 867px 637px;
 }

@@ -1,4 +1,6 @@
 .video__iframe {
   display: flex;
   border: 1px solid transparent;
+  width: 515px;
+  height: 316px;
 }
