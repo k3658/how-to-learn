@@ -5,5 +5,3 @@
 Проект создан при помощи:
 * HTML 5
 * CSS 3
-### Gihub Pages
-https://k3658.github.io/how-to-learn/
